@@ -1,0 +1,11 @@
+Model Information:
+* title:	black tie
+* source:	https://sketchfab.com/3d-models/black-tie-e088417f74724b7a90074e3d2c9d9dba
+* author:	Obridje (https://sketchfab.com/Obridje)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "black tie" (https://sketchfab.com/3d-models/black-tie-e088417f74724b7a90074e3d2c9d9dba) by Obridje (https://sketchfab.com/Obridje) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

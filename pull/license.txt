@@ -1,11 +1,11 @@
 Model Information:
-* title:	ジャングルっぽい柄のパーカー Jungle-like patterned hoodie
-* source:	https://sketchfab.com/3d-models/jungle-like-patterned-hoodie-fdea5384a0c2419fa1b9c47902fc2669
-* author:	ShadowAssetsStore (https://sketchfab.com/ShadowAssetStore)
+* title:	T-SHIRT
+* source:	https://sketchfab.com/3d-models/t-shirt-76240162dcd747d4bb4ca3658b463b0a
+* author:	Obridje (https://sketchfab.com/Obridje)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "ジャングルっぽい柄のパーカー Jungle-like patterned hoodie" (https://sketchfab.com/3d-models/jungle-like-patterned-hoodie-fdea5384a0c2419fa1b9c47902fc2669) by ShadowAssetsStore (https://sketchfab.com/ShadowAssetStore) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "T-SHIRT" (https://sketchfab.com/3d-models/t-shirt-76240162dcd747d4bb4ca3658b463b0a) by Obridje (https://sketchfab.com/Obridje) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

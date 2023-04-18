@@ -1,11 +1,11 @@
 Model Information:
-* title:	Sculpt Ring El Día de Muertos
-* source:	https://sketchfab.com/3d-models/sculpt-ring-el-dia-de-muertos-52272c5cc1f54eb0939decf7100ca03b
-* author:	Horizon (https://sketchfab.com/codlikehorizon)
+* title:	Ring with black diamonds and a ruby
+* source:	https://sketchfab.com/3d-models/ring-with-black-diamonds-and-a-ruby-75dca840682649cb9beb16c013b7f92d
+* author:	s7ntech (https://sketchfab.com/s7ntech)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Sculpt Ring El Día de Muertos" (https://sketchfab.com/3d-models/sculpt-ring-el-dia-de-muertos-52272c5cc1f54eb0939decf7100ca03b) by Horizon (https://sketchfab.com/codlikehorizon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Ring with black diamonds and a ruby" (https://sketchfab.com/3d-models/ring-with-black-diamonds-and-a-ruby-75dca840682649cb9beb16c013b7f92d) by s7ntech (https://sketchfab.com/s7ntech) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -13,7 +13,9 @@
         />
       </a-marker>
       <a-marker type='pattern' url='pattern-papillon.patt'>
-        <a-image src="1536401961_butterfly_001.jpg"
+        <a-image src="butterfly.png"
+          position= "0 1 0"
+          scale= "1 1 1"
           rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000"
         />
       </a-marker>
@@ -47,6 +49,15 @@
       <a-marker type='pattern' url='pattern-pull.patt'>
         <a-entity
           gltf-model="pull/scene.gltf"
+          scale="-1 1 1" 
+          rotation="40 0 0"
+          position="0 0 -3" animation="property: rotation; to: 90 360 0; loop: true; dur: 9000; easing: linear"
+          >
+        </a-entity>
+      </a-marker>
+      <a-marker type='pattern' url='pattern-montre.patt'>
+        <a-entity
+          gltf-model="montre/scene.gltf"
           scale="-1 1 1" 
           rotation="40 0 0"
           position="0 0 -3" animation="property: rotation; to: 90 360 0; loop: true; dur: 9000; easing: linear"

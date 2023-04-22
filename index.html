@@ -4,22 +4,22 @@
   <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
   <script src="https://rawgit.com/mayognaise/aframe-gif-shader/master/dist/aframe-gif-shader.min.js"></script> 
   <script>
-    document.addEventListener('DOMContentLoaded', function () {
-      const scene = document.querySelector('a-scene');
-      let isAnimationPaused = false;
+    let paused = false;
   
-      scene.addEventListener('click', function () {
-        isAnimationPaused = !isAnimationPaused;
-        const animations = document.querySelectorAll('[animation]');
-  
-        for (const animation of animations) {
-          if (isAnimationPaused) {
-            animation.pause();
-          } else {
-            animation.play();
-          }
-        }
-      });
+    document.addEventListener('click', function () {
+      const animations = document.querySelectorAll('[animation]');
+      
+      if (paused) {
+        animations.forEach(animationEl => {
+          animationEl.components.animation.resume();
+        });
+        paused = false;
+      } else {
+        animations.forEach(animationEl => {
+          animationEl.components.animation.pause();
+        });
+        paused = true;
+      }
     });
   </script>  
   <body>
@@ -28,7 +28,7 @@
         <a-image src="butterfly.png"
           position= "0 1 0"
           scale= "1 1 1"
-          rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000 id: animation1"
+          rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000"
         />
       </a-marker>
       <a-marker type='pattern' url='pattern-pexels-enrique-zafra-3675621.patt'>
@@ -36,7 +36,7 @@
           gltf-model="scene.gltf"
           position= "0 1 0"
           scale= "1 1 1"
-          rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000 id: animation2"
+          rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000"
           >
         </a-entity>
       </a-marker>
@@ -45,7 +45,7 @@
           gltf-model="armoire/scene.gltf"
           position= "0 1 0"
           scale= "1 1 1"
-          rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000 id: animation3"
+          rotation="3 3 3" animation="property: rotation; to: 0 360 0; loop: true; dur: 7000"
           >
         </a-entity>
       </a-marker>

@@ -11,7 +11,7 @@
       
       if (paused) {
         animations.forEach(animationEl => {
-          animationEl.components.animation.resume();
+          animationEl.components.animation.play();
         });
         paused = false;
       } else {
